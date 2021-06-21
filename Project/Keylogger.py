@@ -41,16 +41,16 @@ microphone_time = 10
 time_iteration = 15
 number_of_iterations_end = 3
 
-email_address = "keyloggerrobo@gmail.com" # Enter disposable email here
-password = "MrRobot@113721" # Enter email password here
+email_address = "" # Enter disposable email here
+password = "" # Enter email password here
 
 username = getpass.getuser()
 
-toaddr = "keyloggerrobo@gmail.com" # Enter the email address you want to send your information to
+toaddr = "" # Enter the email address you want to send your information to
 
-key = "-Fpw4Y-bLllpOI7S_P59e0Fx-VbA7irbOySB6BuQXHU=" # Generate an encryption key from the Cryptography folder
+key = "" # Generate an encryption key from the Cryptography folder
 
-file_path = "C:\\Users\\Lenovo\\PycharmProjects\\pythonProject1\\Project" # Enter the file path you want your files to be saved to
+file_path = "" # Enter the file path you want your files to be saved to
 extend = "\\"
 file_merge = file_path + extend
 
